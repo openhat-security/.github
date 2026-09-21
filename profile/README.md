@@ -39,7 +39,7 @@ Start intake on the site: [https://openhat-website.vercel.app/intake](https://op
 ### Contact
 
 - Site: [https://openhat-website.vercel.app](https://openhat-website.vercel.app)
-- Email: adam@freetech.co
+- Email: ukryty@mailbox.org
 
 ---
 
