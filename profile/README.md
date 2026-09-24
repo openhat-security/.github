@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Pay us to break it — before someone else does.</strong>
+  <strong>Hire us to break it — before someone else does.</strong>
 </p>
 
 <p align="center">
