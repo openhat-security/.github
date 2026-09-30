@@ -19,18 +19,17 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
 <p align="center">
   <a href="https://openhat-website.vercel.app/"><img src="./openhat-cta-website.svg" alt="Visit OpenHat" height="44" /></a>
   &nbsp;
-  <a href="https://openhat-website.vercel.app/pricing"><img src="./openhat-cta-pricing.svg" alt="OHQS / API pricing" height="44" /></a>
+  <a href="https://openhat-website.vercel.app/pricing"><img src="./openhat-cta-pricing.svg" alt="Exploit API pricing" height="44" /></a>
   &nbsp;
   <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
 </p>
 
-***We'll find a critical vulnerability in your system, or it's free. For only $1,000, or $0, hire is to hack your system before bad actor do.***
 
 <p align="center">
   <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
 </p>
 
-Flat **$1,000**. We find a High or Critical vulnerability in your software — if we don't, you don't pay. Written authorization required.
+For only **$1,000**. We find a High or Critical vulnerability in your software — if we don't, recieve an instant refund + free API credits.
 
 **Required to start:** your permission, company domain, founder LinkedIn, one application URL, and any threats you already worry about.  
 **Optional:** stack and extra URLs — they only make us faster.
