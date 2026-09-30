@@ -17,23 +17,24 @@
 
 Authorized penetration testing for modern applications. We run a **full hunt** on systems you permit, find every hole we can, and hand you **findings plus logs of everything we touched** — so you pay us to break it before a malicious actor does.
 
+<p align="center">
+  <a href="https://openhat-website.vercel.app/"><img src="./openhat-cta-website.svg" alt="Website" height="40" /></a>
+  <a href="https://openhat-website.vercel.app/pricing"><img src="./openhat-cta-pricing.svg" alt="OHQS / API pricing" height="40" /></a>
+  <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="40" /></a>
+</p>
+
 **Website:** [openhat-website.vercel.app](https://openhat-website.vercel.app)
 
 ### $1,000 package
 
 <p align="center">
-  <a href="https://openhat-website.vercel.app">
-    <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
-  </a>
+  <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
 </p>
 
 Flat **$1,000**. We find a High or Critical vulnerability in your software — if we don't, you don't pay. Written authorization required.
 
 **Required to start:** your permission, company domain, founder LinkedIn, one application URL, and any threats you already worry about.  
 **Optional:** stack and extra URLs — they only make us faster.
-
-Start intake: [https://openhat-website.vercel.app/intake](https://openhat-website.vercel.app/intake)  
-Site / pricing: [https://openhat-website.vercel.app](https://openhat-website.vercel.app) · [https://openhat-website.vercel.app/pricing](https://openhat-website.vercel.app/pricing)
 
 ### Open-source products
 
