@@ -8,10 +8,6 @@
   <strong>Hire us to break it — before someone else does.</strong>
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/openhat-security"><img src="https://img.shields.io/badge/GitHub-openhat--security-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-</p> -->
-
 ## OpenHat Security
 
 Authorized penetration testing for modern applications. We run a **full hunt** on systems you permit, find every hole we can, and hand you **findings plus logs of everything we touched** — so you pay us to break it before a malicious actor does.
@@ -24,23 +20,38 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
   <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
 </p>
 
-
 <p align="center">
   <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
 </p>
 
-***For only **$1,000**. We find a High or Critical vulnerability in your software — if we don't, recieve an instant refund + $100 free API credits.***
+<p align="center">
+  <strong>For only $1,000.</strong> We find a High or Critical vulnerability in your software — if we don’t, receive an instant refund + $100 free API credits.
+</p>
 
-<a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
+<p align="center">
+  <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
+</p>
 
-
-### Open-source products
+### Open source
 
 | Project | What it is |
 | --- | --- |
 | [oniongate](https://github.com/openhat-security/oniongate) | Tor workstation toolkit — app routing, onion hosting, leak checks |
 | [phishkit](https://github.com/openhat-security/phishkit) | Authorized AiTM + awareness assessment platform (alpha) |
-| [ios-max-security](https://github.com/openhat-security/ios-max-security) | OpenHat Max Privacy for iPhone |
+| [ios-max-security](https://github.com/openhat-security/ios-max-security) | Max privacy and security settings for iPhone (iOS 18.2–26.6) |
+| [ohqs](https://github.com/openhat-security/ohqs) | OpenHat quickstart — AI-assisted pentest / ethical exploit kickoff (FOSS core) |
+| [runhug](https://github.com/openhat-security/runhug) | Find the best Hugging Face model, deploy on Runpod, run for pennies |
+| [hfpacks](https://github.com/openhat-security/hfpacks) | Crawl Hugging Face Hub into runhug-compatible category SQLite index packs |
+| [homebrew-tap](https://github.com/openhat-security/homebrew-tap) | Homebrew tap for OpenHat Security CLIs |
+| [scoop-bucket](https://github.com/openhat-security/scoop-bucket) | Scoop bucket for OpenHat Security CLIs |
+| [packages](https://github.com/openhat-security/packages) | apt + dnf package repos for OpenHat Security (GitHub Pages) |
+| [pentestkit](https://github.com/openhat-security/pentestkit) | OWASP PTK — application security browser extension (fork) |
+| [wraith](https://github.com/openhat-security/wraith) | Modern browser-hooking framework for authorized red team / research (fork) |
+| [sherlock](https://github.com/openhat-security/sherlock) | Hunt social media accounts by username across networks (fork) |
+| [msftrecon](https://github.com/openhat-security/msftrecon) | Microsoft recon tooling (fork) |
+| [LuLu](https://github.com/openhat-security/LuLu) | Free open-source macOS firewall (fork) |
+| [MacOS-Privacy-and-Security-Enhancements](https://github.com/openhat-security/MacOS-Privacy-and-Security-Enhancements) | Executables to harden macOS privacy and security (fork) |
+| [foss-template](https://github.com/openhat-security/foss-template) | FOSS project starter — community health, VitePress docs, GitHub defaults (fork) |
 
 ### Contact
 
@@ -49,4 +60,4 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
 
 ---
 
-<em>Authorized, ethical offensive security sevices only. Written, verified permission from organization owner required before any engagement.</em>
+<em>Authorized, ethical offensive security services only. Written, verified permission from the organization owner required before any engagement.</em>
