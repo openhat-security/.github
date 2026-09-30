@@ -45,13 +45,6 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
 | [homebrew-tap](https://github.com/openhat-security/homebrew-tap) | Homebrew tap for OpenHat Security CLIs |
 | [scoop-bucket](https://github.com/openhat-security/scoop-bucket) | Scoop bucket for OpenHat Security CLIs |
 | [packages](https://github.com/openhat-security/packages) | apt + dnf package repos for OpenHat Security (GitHub Pages) |
-| [pentestkit](https://github.com/openhat-security/pentestkit) | OWASP PTK — application security browser extension (fork) |
-| [wraith](https://github.com/openhat-security/wraith) | Modern browser-hooking framework for authorized red team / research (fork) |
-| [sherlock](https://github.com/openhat-security/sherlock) | Hunt social media accounts by username across networks (fork) |
-| [msftrecon](https://github.com/openhat-security/msftrecon) | Microsoft recon tooling (fork) |
-| [LuLu](https://github.com/openhat-security/LuLu) | Free open-source macOS firewall (fork) |
-| [MacOS-Privacy-and-Security-Enhancements](https://github.com/openhat-security/MacOS-Privacy-and-Security-Enhancements) | Executables to harden macOS privacy and security (fork) |
-| [foss-template](https://github.com/openhat-security/foss-template) | FOSS project starter — community health, VitePress docs, GitHub defaults (fork) |
 
 ### Contact
 
