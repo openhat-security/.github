@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://openhat-website.vercel.app"><img src="https://img.shields.io/badge/Website-openhat--website.vercel.app-b01018?style=flat-square" alt="Website" /></a>
   <a href="https://github.com/openhat-security"><img src="https://img.shields.io/badge/GitHub-openhat--security-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
 
@@ -18,12 +17,12 @@
 Authorized penetration testing for modern applications. We run a **full hunt** on systems you permit, find every hole we can, and hand you **findings plus logs of everything we touched** — so you pay us to break it before a malicious actor does.
 
 <p align="center">
-  <a href="https://openhat-website.vercel.app/"><img src="./openhat-cta-website.svg" alt="Website" height="40" /></a>
-  <a href="https://openhat-website.vercel.app/pricing"><img src="./openhat-cta-pricing.svg" alt="OHQS / API pricing" height="40" /></a>
-  <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="40" /></a>
+  <a href="https://openhat-website.vercel.app/"><img src="./openhat-cta-website.svg" alt="Visit OpenHat" height="44" /></a>
+  &nbsp;
+  <a href="https://openhat-website.vercel.app/pricing"><img src="./openhat-cta-pricing.svg" alt="OHQS / API pricing" height="44" /></a>
+  &nbsp;
+  <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
 </p>
-
-**Website:** [openhat-website.vercel.app](https://openhat-website.vercel.app)
 
 ### $1,000 package
 

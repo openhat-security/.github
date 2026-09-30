@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44" role="img" aria-label="OHQS / API pricing">
-  <rect width="240" height="44" rx="10" fill="#101010" stroke="#f8f8f0" stroke-opacity=".35" stroke-width="1.5"/>
-  <text x="120" y="28" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="700" fill="#f8f8f0">OHQS / API pricing</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48" role="img" aria-label="OHQS / API pricing">
+  <rect width="240" height="48" rx="12" fill="#101010" stroke="#f8f8f0" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="120" y="31" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f8f8f0">OHQS / API pricing</text>
 </svg>
