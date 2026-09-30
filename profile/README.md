@@ -42,9 +42,6 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
 | [ohqs](https://github.com/openhat-security/ohqs) | OpenHat quickstart — AI-assisted pentest / ethical exploit kickoff (FOSS core) |
 | [runhug](https://github.com/openhat-security/runhug) | Find the best Hugging Face model, deploy on Runpod, run for pennies |
 | [hfpacks](https://github.com/openhat-security/hfpacks) | Crawl Hugging Face Hub into runhug-compatible category SQLite index packs |
-| [homebrew-tap](https://github.com/openhat-security/homebrew-tap) | Homebrew tap for OpenHat Security CLIs |
-| [scoop-bucket](https://github.com/openhat-security/scoop-bucket) | Scoop bucket for OpenHat Security CLIs |
-| [packages](https://github.com/openhat-security/packages) | apt + dnf package repos for OpenHat Security (GitHub Pages) |
 
 ### Contact
 
