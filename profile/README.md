@@ -16,13 +16,23 @@
 
 Authorized penetration testing for modern applications. We run a **full hunt** on systems you permit, find every hole we can, and hand you **findings plus logs of everything we touched** — so you pay us to break it before a malicious actor does.
 
+<p align="center">
+  <a href="https://openhat-website.vercel.app/"><img src="./openhat-cta-website.svg" alt="Visit OpenHat" height="44" /></a>
+  &nbsp;
+  <a href="https://openhat-website.vercel.app/pricing"><img src="./openhat-cta-pricing.svg" alt="Exploit API pricing" height="44" /></a>
+  &nbsp;
+  <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
+</p>
 
 
 <p align="center">
   <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
 </p>
 
-***For only **$1,000**. We find a High or Critical vulnerability in your software — if we don't, recieve an instant refund + free API credits.***
+***For only **$1,000**. We find a High or Critical vulnerability in your software — if we don't, recieve an instant refund + $100 free API credits.***
+
+<a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
+
 
 ### Open-source products
 
@@ -39,4 +49,4 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
 
 ---
 
-<em>Authorized testing only. Written permission required before any engagement.</em>
+<em>Authorized, ethical offensive security sevices only. Written, verified permission from organization owner required before any engagement.</em>
