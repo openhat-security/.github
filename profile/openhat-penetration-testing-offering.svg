@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a0a0a"/><stop offset="100%" stop-color="#160c0c"/></linearGradient>
+    <radialGradient id="glowR" cx="85%" cy="0%" r="55%"><stop offset="0%" stop-color="#e10600" stop-opacity=".22"/><stop offset="100%" stop-color="#e10600" stop-opacity="0"/></radialGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#glowR)"/>
+  <g stroke="#f8f8f0" stroke-opacity=".035"><path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M0 450H1200M0 540H1200"/><path d="M120 0V630M240 0V630M360 0V630M480 0V630M600 0V630M720 0V630M840 0V630M960 0V630M1080 0V630"/></g>
+  <rect x="-180" y="0" width="140" height="630" fill="#e10600" opacity=".07"><animate attributeName="x" from="-180" to="1200" dur="5.5s" repeatCount="indefinite"/></rect>
+
+  <g transform="translate(48,36) scale(.36)"><ellipse cx="40" cy="52" rx="36" ry="8" fill="#f8f8f0" opacity=".35"/><path d="M12 52C12 28 24 12 40 12s28 16 28 40z" fill="#f8f8f0"/><path d="M32 26v26h16V30c0-3-2-4-5-4z" fill="#e10600"/></g>
+  <text x="86" y="56" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" font-weight="700" fill="#f8f8f0" letter-spacing=".22em">OPENHAT SECURITY</text>
+
+  <!-- bigger $1000 centered in top-right quadrant -->
+  <g transform="translate(760,55)">
+    <rect width="392" height="230" rx="20" fill="#140808" stroke="#e10600" stroke-width="2.5"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="2.2s" repeatCount="indefinite"/></rect>
+    <text x="196" y="58" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="600" fill="#e10600" letter-spacing=".22em">PACKAGE</text>
+    <text x="196" y="150" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="92" font-weight="800" fill="#f8f8f0" filter="url(#g)">$1,000
+      <animate attributeName="fill" values="#f8f8f0;#e10600;#f8f8f0" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="196" y="196" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="700" fill="#f8f8f0" opacity=".7" letter-spacing=".2em">FLAT</text>
+  </g>
+
+  <text x="48" y="150" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="600" fill="#e10600" letter-spacing=".2em">AUTHORIZED PENETRATION TESTING</text>
+  <text x="48" y="218" font-family="ui-sans-serif,system-ui,sans-serif" font-size="48" font-weight="800" fill="#f8f8f0">We'll hack you,</text>
+  <text x="48" y="278" font-family="ui-sans-serif,system-ui,sans-serif" font-size="48" font-weight="800" fill="#f8f8f0">or it's <tspan fill="#e10600" filter="url(#g)">free.<animate attributeName="opacity" values="1;.55;1" dur="1.8s" repeatCount="indefinite"/></tspan></text>
+  <text x="48" y="328" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16" fill="#f8f8f0" opacity=".78">For $1,000 we find a High or Critical vulnerability in your software.</text>
+  <text x="48" y="352" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16" fill="#f8f8f0" opacity=".78">If we don't — you don't pay. Written authorization required.</text>
+
+  <rect x="48" y="400" width="700" height="108" rx="14" fill="#101010" stroke="#f8f8f0" stroke-opacity=".1"/>
+  <text x="70" y="432" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="600" fill="#f8f8f0" opacity=".45" letter-spacing=".14em">POWERED BY OHQS</text>
+  <text x="70" y="468" font-family="ui-sans-serif,system-ui,sans-serif" font-size="22" font-weight="800" fill="#f8f8f0">Exploit Generator API&#160;<tspan fill="#e10600">coming soon</tspan></text>
+  <text x="70" y="496" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#f8f8f0" opacity=".55">Authorized weaponized exploit generation for ethical pentests, education &amp; awareness.</text>
+
+  <a xlink:href="https://openhat-website.vercel.app"><rect x="780" y="400" width="372" height="42" rx="11" fill="#e10600"/><text x="966" y="427" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="700" fill="#f8f8f0">Visit OpenHat →</text></a>
+  <a xlink:href="https://openhat-website.vercel.app/pricing"><rect x="780" y="450" width="372" height="42" rx="11" fill="none" stroke="#f8f8f0" stroke-opacity=".3" stroke-width="1.5"/><text x="966" y="477" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="700" fill="#f8f8f0">OHQS / API pricing</text></a>
+  <a xlink:href="https://openhat-website.vercel.app/intake"><rect x="780" y="500" width="372" height="42" rx="11" fill="none" stroke="#e10600" stroke-width="1.5"/><text x="966" y="527" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="700" fill="#e10600">Start intake</text></a>
+  <text x="966" y="555" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#f8f8f0" opacity=".32">openhat-website.vercel.app</text>
+</svg>

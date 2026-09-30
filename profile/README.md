@@ -21,12 +21,19 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
 
 ### $1,000 package
 
-Flat **$1,000** engagement with a money-back path if no Critical finding lands in scope (terms in SOW).  
+<p align="center">
+  <a href="https://openhat-website.vercel.app">
+    <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
+  </a>
+</p>
+
+Flat **$1,000**. We find a High or Critical vulnerability in your software — if we don't, you don't pay. Written authorization required.
 
 **Required to start:** your permission, company domain, founder LinkedIn, one application URL, and any threats you already worry about.  
 **Optional:** stack and extra URLs — they only make us faster.
 
-Start intake on the site: [https://openhat-website.vercel.app/intake](https://openhat-website.vercel.app/intake)
+Start intake: [https://openhat-website.vercel.app/intake](https://openhat-website.vercel.app/intake)  
+Site / pricing: [https://openhat-website.vercel.app](https://openhat-website.vercel.app) · [https://openhat-website.vercel.app/pricing](https://openhat-website.vercel.app/pricing)
 
 ### Open-source products
 
