@@ -29,7 +29,7 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
 </p>
 
 <p align="center">
-  <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
+  <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-best-offer.svg" alt="Click here for the best, trusted penetration testing offer on the market." height="56" /></a>
 </p>
 
 ### Open source
