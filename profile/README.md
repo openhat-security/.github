@@ -29,10 +29,7 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
   <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
 </p>
 
-For only **$1,000**. We find a High or Critical vulnerability in your software — if we don't, recieve an instant refund + free API credits.
-
-**Required to start:** your permission, company domain, founder LinkedIn, one application URL, and any threats you already worry about.  
-**Optional:** stack and extra URLs — they only make us faster.
+****For only **$1,000**. We find a High or Critical vulnerability in your software — if we don't, recieve an instant refund + free API credits.****
 
 ### Open-source products
 
