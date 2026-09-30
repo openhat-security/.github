@@ -24,7 +24,7 @@ Authorized penetration testing for modern applications. We run a **full hunt** o
   <a href="https://openhat-website.vercel.app/intake"><img src="./openhat-cta-intake.svg" alt="Start intake" height="44" /></a>
 </p>
 
-### $1,000 package
+### We'll find a critical vulnerability in your system, or it's free. For only $1,000, or $0, hire is to hack your system before bad actor do.
 
 <p align="center">
   <img src="./openhat-penetration-testing-offering.svg" alt="OpenHat $1,000 authorized penetration testing package" width="960" />
