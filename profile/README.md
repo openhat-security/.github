@@ -10,7 +10,7 @@
 
 ## OpenHat Security
 
-###We provide AI-powered offensive security services to combat an AI-scale attack surface. 
+### We provide AI-powered offensive security services to combat an AI-scale attack surface. 
 
 Run your authorized, AI-powered, human-guided penetration test as soon as today. We run a **full hunt** on systems you permit, find every hole we can, and hand you **findings plus logs of everything we touched** — let us find gap in your security posture before a bad actor does. It will cost you much more than $1,000 - and if we don't find any holes, it's free. 
 
