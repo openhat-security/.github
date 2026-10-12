@@ -10,6 +10,8 @@
 
 ## OpenHat Security
 
+We provide AI-powered offensive security services to combat an AI-scale attack surface. 
+
 Authorized penetration testing for modern applications. We run a **full hunt** on systems you permit, find every hole we can, and hand you **findings plus logs of everything we touched** — so you pay us to break it before a malicious actor does.
 
 <p align="center">
